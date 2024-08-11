@@ -25,13 +25,13 @@ h2{
     background-color: #C58940;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     list-style: none;
+    text-decoration: none;
 
 }
 
 .new{
      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      list-style: none;
-     text-decoration: none;
 }
 
 nav ul {
@@ -46,6 +46,3 @@ nav ul {
     margin-right: 20px;
   }
 
- nav a{
-      color:white;
-  }
