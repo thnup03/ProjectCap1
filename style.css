@@ -1,0 +1,37 @@
+html{
+    background-color: antiquewhite;
+}
+
+*{
+   text-align: center; 
+}
+
+h1{
+    color:white;
+    background-color: darkseagreen;
+    font-family: Rubik,sans-serif;
+    font-weight: 800;
+}
+
+h2{
+    color:white;
+    background-color: #C58940;
+    font-family: Rubik,sans-serif;
+    font-weight: 500;
+}
+
+.change{
+    color:white;
+    background-color: #C58940;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.new{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
